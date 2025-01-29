@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is github project demo
+=======
+This is github demo 
+>>>>>>> origin/master
